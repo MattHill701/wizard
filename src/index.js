@@ -54,7 +54,7 @@ app.get("/posts/:id", (req, res, next) => {
       <header><img src="/logo.png"/>Wizard News</header>
       <div class="not-found">
         <p>Accio Page! 🧙‍♀️ ... Page Not Found</p>
-        <img src="/dumbledore-404.gif" />
+        <img src="public/im-invisible-invisible.gif" />
       </div>
     </body>
     </html>`;
